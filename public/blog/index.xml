@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on asterisco mas</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on asterisco mas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 Aug 2020 16:59:02 -0300</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cómo importar datos a SQLite</title>
+      <link>/blog/comoimportardatosasqlite/</link>
+      <pubDate>Tue, 25 Aug 2020 16:59:02 -0300</pubDate>
+      
+      <guid>/blog/comoimportardatosasqlite/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Por qué tomar un curso de expresiones regulares?</title>
+      <link>/blog/porquetomaruncursodeexpresionesregulares/</link>
+      <pubDate>Fri, 20 Mar 2020 16:59:02 -0300</pubDate>
+      
+      <guid>/blog/porquetomaruncursodeexpresionesregulares/</guid>
+      <description>Hace muy poco publiqué mi primer curso virtual en la plataforma Udemy. En el curso te enseño qué son, para qué sirven y cómo utilizar las expresiones regulares. En este artículo quiero compartir contigo el motivo por el cual considero que es tan importante que aprendas a utilizar expresiones regulares.
+¿Por qué aprender a usar expresiones regulares? Porque las expresiones regulares son trasversales. Las expresiones regulares te resultarán útiles en los diversos roles que puedas tomar como profesional de TI a lo largo de toda tu carrera.</description>
+    </item>
+    
+  </channel>
+</rss>

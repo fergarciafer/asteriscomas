@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on asterisco mas</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on asterisco mas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 Aug 2020 16:59:02 -0300</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Base de Datos</title>
+      <link>/categories/base-de-datos/</link>
+      <pubDate>Tue, 25 Aug 2020 16:59:02 -0300</pubDate>
+      
+      <guid>/categories/base-de-datos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLite</title>
+      <link>/categories/sqlite/</link>
+      <pubDate>Tue, 25 Aug 2020 16:59:02 -0300</pubDate>
+      
+      <guid>/categories/sqlite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REGEX</title>
+      <link>/categories/regex/</link>
+      <pubDate>Fri, 20 Mar 2020 16:59:02 -0300</pubDate>
+      
+      <guid>/categories/regex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
