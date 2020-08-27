@@ -12,4 +12,4 @@ tags:
 - SQLite
 ---
 
-{{< youtube [7cjOyM01eGo](https://youtu.be/7cjOyM01eGo) >}}
+{{< youtube 7cjOyM01eGo >}}
