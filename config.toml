@@ -4,12 +4,12 @@ DefaultContentLanguage = "es"
 languageCode = "es"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+disqusShortname = "asteriscomas" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "UA-129900305-2" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Fernando Garcia"
-  bio = "Instructor en Udemy."
+  bio = "Especialista en BI. Instructor en Udemy."
   avatar = "img/avatar.png"
   
 
